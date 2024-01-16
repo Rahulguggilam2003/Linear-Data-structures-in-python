@@ -10,7 +10,7 @@ This Jupyter notebook implements common linear data structures in Python, includ
 The notebook contains working code examples for creating, manipulating, and using each data structure. To use:<br>
 <br>
 ->Clone the repository<br>
-->Open the Jupyter notebook<br>
+->Open the Jupyter Notebook <br>
 ->Run the code cells to see the implementations in action<br>
 <br>
 <br>
@@ -26,37 +26,46 @@ The following linear data structures are implemented:<br>
 **Methods include:** <br>
 <br>
 <br>
-Append, prepend, insert
-Delete
-Iterate through list
-**Stack**
-A LIFO (Last In First Out) linear data structure.
+Append, prepend, insert<br>
+Delete<br>
+Iterate through list<br>
+<br>
+**Stack**<br>
+A LIFO (Last In First Out) linear data structure.<br>
+<br>
+<br>
 
 Methods include:
 
-Push
-Pop
-Peek
-Check if empty
+Push<br>
+Pop<br>
+Peek<br>
+Check if empty<br>
+<br>
 **Queue**
-A FIFO (First In First Out) linear data structure.
-
+A FIFO (First In First Out) linear data structure.<br>
+<br>
 Methods include:
+<br>
+<br>
+Enqueue<br>
+Dequeue<br>
+Peek<br>
+Check if empty<br>
+<br>
 
-Enqueue
-Dequeue
-Peek
-Check if empty
-**Deque**
-A double-ended queue that supports adding/removing from both ends.
+**Deque**<br>
 
-Methods include:
+A double-ended queue that supports adding/removing from both ends.<br>
 
-Append
-Appendleft
-Pop
-Popleft
-Peek
-Check if empty
-**Installation**
-The code was written in Python 3.10. To use, simply clone the repo and run the Jupyter notebook.
+Methods include:<br>
+<br>
+Append<br>
+Appendleft<br>
+Pop<br>
+Popleft<br>
+Peek<br>
+Check if empty<br>
+<br>
+**Installation**<br>
+The code was written in Python 3.10. To use, clone the repo and run the Jupyter Notebook.
